@@ -1,0 +1,6 @@
+export { Modal } from './Modal'
+export { SwitchConfirmModal } from './SwitchConfirmModal'
+export { RevealCard } from './RevealCard'
+export { WelcomeModal } from './WelcomeModal'
+export { SettingsModal } from './SettingsModal'
+export { StatsModal } from './StatsModal'
